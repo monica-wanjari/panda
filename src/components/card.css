@@ -1,0 +1,99 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: serif;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 100%;
+  margin-top: 40px;
+}
+.headings{
+    width: 100% !important;
+    text-align: center;
+    font-size: 15px;
+    padding-left: 18px;
+    margin-top: 40px;
+}
+.images{
+    margin-top: 10px;
+    box-shadow: 5px 10px 8px #888888;
+}
+ .icon{
+    float: left;
+    margin-top: 20px;
+    font-size: 25px;
+    color:gray;
+    width: 50%;
+    position: relative;
+    padding-right: 30px;
+    
+    
+} 
+ .icon p{
+    float: right;
+    display: absolute;
+    margin-left:-20px;
+    /* border:1px solid black; */
+    color: blue;
+    width:50%;
+    font-size: 18px;
+    
+} 
+.icon_one{
+     float: left;
+    margin-top: 20px;
+    font-size: 25px;
+    color:gray;
+    width: 50%;
+    position: relative;
+    padding-right: 30px;
+
+} 
+.icon_one p{
+     float: right;
+    display: absolute;
+    margin-left:-20px;
+    font-size: 22px;
+    color: blue;
+    width:50%;
+}
+.icons{
+   width: 50px;
+   float: left;
+   margin-right: 5px; 
+
+}
+.menu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.menu li {
+  float: left;
+  
+}
+
+.menu li a {
+  display: block;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 70px;
+  position: relative;
+  float: left;
+  width: 100px;
+  justify-content: left;
+  text-align: left;
+}  
+.amt h2{
+    display:inline-block;
+    padding-top: 50px;
+    text-align: center;
+    width: 100%;
+}
+.buttonone .btn{
+    border: 2px solid;
+}
